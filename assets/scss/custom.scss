@@ -2,6 +2,35 @@
     You can add your own custom styles here.
 */
 
+:root {
+    --accent-color: #d4603f;
+    --accent-color-darker: #b34c2f;
+    --accent-color-text: #fff;
+
+    --card-border-radius: 14px;
+
+    &[data-scheme="dark"] {
+        --accent-color: #f0906a;
+        --accent-color-darker: #f5ab8c;
+        --accent-color-text: #1a1a1a;
+    }
+}
+
+.article-list article,
+.article-list--compact,
+.related-content article {
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+
+    &:hover {
+        transform: translateY(-4px);
+    }
+}
+
+.site-avatar .site-logo {
+    border: 3px solid var(--accent-color);
+    transition: border-color 0.3s ease;
+}
+
 .article-content .video-wrapper {
     max-width: 560px;
     width: 100%;

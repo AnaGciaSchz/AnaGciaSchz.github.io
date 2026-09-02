@@ -27,7 +27,7 @@ Apunta la fecha: 30 de noviembre, 17:30 CET. Pasa por nuestra [página del event
 Prepárate para una tarde de charlas técnicas, inspiración y alguna que otra sorpresa. Nos vemos en ShuttleCon 3.0 🚀🌐
 
 
-![Aquí estoy yo, hablando en la Primera edición de ShuttleCon](1.jpg)![Ponentes en la Primera edición de ShuttleCon](2.jpg)![Ponentes y organizadores en la Segunda edición de ShuttleCon](3.jpg)![Público asistente en la Primera edición de ShuttleCon](4.jpg)
+![Aquí estoy, hablando en la Primera edición de ShuttleCon](1.jpg)![Ponentes en la Primera edición de ShuttleCon](2.jpg)![Ponentes y organizadores en la Segunda edición de ShuttleCon](3.jpg)![Público asistente en la Primera edición de ShuttleCon](4.jpg)
 
 
 
