@@ -42,7 +42,7 @@ My professional journey wouldn’t be complete without highlighting my time in S
 
  I had the honor of being elected president of several university organizations and serving on the board of directors of[RITSI](https://ritsi.org/) during my final year a national student representation organization. Though my formal role has ended, I still enjoy contributing by giving talks and supporting projects whenever I can.
 
-These experiences not only shaped my skills and perspective but also brought me lifelong friendships, and one very special relationship! I now share my life with an amazing partner and our adorable cat, Tortitas (Spanish for Pancakes 😉).
+These experiences not only shaped my skills and perspective but also brought me lifelong friendships, and one very special relationship! I now share my life with an amazing partner and our adorable cats, Tortitas (Spanish for Pancakes) and Mantequilla (Spanish for Butter).
 
 ![Selfie with Tortitas while editing a video](2.jpg)
 

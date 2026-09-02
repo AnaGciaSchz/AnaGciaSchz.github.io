@@ -1,11 +1,19 @@
 [en]
-languageName = "English"
-languagedirection = "ltr"
-title = "Example Site"
+label = "English"
+direction = "ltr"
+title = "Ana García's Space"
 weight = 1
 
 [es]
-languageName = "Español"
-languagedirection = "ltr"
-title = "Sitio de ejemplo"
-weight = 1
+label = "Español"
+direction = "ltr"
+title = "La Página Web de Ana García"
+weight = 2
+
+[es.params]
+[es.params.sidebar]
+subtitle = "¡Bienvenido a mi página web! Me encanta crear contenido y escribir algunas de mis opiniones, así que este es el hueco que me he creado en la web."
+
+[es.params.dateFormat]
+published = "02/01/2006"
+lastUpdated = "02/01/2006 15:04 CET"

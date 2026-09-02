@@ -10,15 +10,15 @@ menu:
             icon: link
 ---
 
-As I mentioned in the [About me](https://www.anuskuskus.me/about-me/) section, I love editing videos. What started as a fun hobby has now evolved into a valuable skill, and some of my work is even shared on my company’s social media channels. It's amazing how a hobby can turn into something useful! Here are a few of my creations:
+As I mentioned in the [About me](https://www.anuskuskus.me/about-me/) section, I love editing videos. What started as a fun hobby has now evolved into a valuable skill, and some of my work was even shared on my company’s social media channels. It's amazing how a hobby can turn into something useful! Here are a few of my creations:
 
 <h3>Linkedin Lives</h3>
 
-At Empathy, we regularly host LinkedIn Lives, and I wanted to improve the quality of the re-uploaded videos. So, I started editing them! You can find the edited versions on [Empathy.co's Youtube channel](https://www.youtube.com/@Empathyco_/videos). My very first edited video is this one because, honestly, starting with ABBA is always a great choice:
+At Empathy, we regularly hosted LinkedIn Lives, and I wanted to improve the quality of the re-uploaded videos. So, I started editing them! You can find the edited versions on [Empathy.co's Youtube channel](https://www.youtube.com/@Empathyco_/videos). My very first edited video is this one because, honestly, starting with ABBA is always a great choice:
 
 {{< youtube JscBi4u62O0 >}}
 
-I also generate shorts of the most interesting parts and upload them on [The Youtube channel](https://www.youtube.com/@Empathyco_/shorts).
+I also generated shorts of the most interesting parts and uploaded them on [The Youtube channel](https://www.youtube.com/@Empathyco_/shorts).
 
 ![Screenshot of some LiL shorts](1.jpg)
 
@@ -47,6 +47,6 @@ The most fun part? Editing and uploading the bloopers to my YouTube channel! You
 
 <h3>Instagram Videos</h3>
 
-I recently started working in other social media accounts of the company, and of course, I edited some videos. [Here](https://www.instagram.com/motivemarket.com_/) you can find some of them. The shop interview series, the live draw for bikes, the interviews in the streets of Gijón... 
+I also worked in other social media accounts of the company, and of course, I edited some videos. [Here](https://www.instagram.com/motivemarket.com_/) you can find some of them. The shop interview series, the live draw for bikes, the interviews in the streets of Gijón... 
 
 and I also worked on the editing of a awareness video for the account, designing the transitions and giving my [own voice](https://www.instagram.com/reel/DCwklHIsIwm/).
