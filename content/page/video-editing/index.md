@@ -14,7 +14,7 @@ As I mentioned in the [About me](https://www.anuskuskus.me/about-me/) section, I
 
 <h3>Linkedin Lives</h3>
 
-At Empathy, we regularly host LinkedIn Lives, and I wanted to improve the quality of the re-uploaded videos. So, I started editing them! You can find the edited versions on [Empathy.co's Youtube channel](https://www.youtube.com/@Empathyco_/videos). My very first edited video is this one—because, honestly, starting with ABBA is always a great choice:
+At Empathy, we regularly host LinkedIn Lives, and I wanted to improve the quality of the re-uploaded videos. So, I started editing them! You can find the edited versions on [Empathy.co's Youtube channel](https://www.youtube.com/@Empathyco_/videos). My very first edited video is this one because, honestly, starting with ABBA is always a great choice:
 
 {{< youtube JscBi4u62O0 >}}
 
@@ -30,7 +30,7 @@ My first ever professional edited video where I appear (I needed some help with 
 
 {{< youtube 2rpiprsKInQ >}}
 
-I created the script and had to get used to speaking directly to the camera—something that took a bit of adjustment. Honestly, I still prefer live talks over pre-recorded ones!
+I created the script and had to get used to speaking directly to the camera something that took a bit of adjustment. Honestly, I still prefer live talks over pre-recorded ones!
 
 <h4>SMC</h4>
 
