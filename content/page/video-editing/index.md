@@ -7,7 +7,7 @@ menu:
     main:
         weight: 6
         params: 
-            icon: link
+            icon: video-camera
 ---
 
 As I mentioned in the [About me](https://www.anuskuskus.me/about-me/) section, I love editing videos. What started as a fun hobby has now evolved into a valuable skill, and some of my work was even shared on my company’s social media channels. It's amazing how a hobby can turn into something useful! Here are a few of my creations:

@@ -7,7 +7,7 @@ menu:
     main:
         weight: 6
         params: 
-            icon: link
+            icon: video-camera
 ---
 
 Como comenté en la sección de [Sobre mí](/es/about-me/), me encanta editar vídeos. Lo que empezó como una afición se ha convertido en una habilidad valiosa, y parte de mi trabajo se compartió incluso en las redes sociales de mi empresa. ¡Es increíble cómo una afición puede convertirse en algo útil! Aquí tienes algunas de mis creaciones:
@@ -47,6 +47,6 @@ Ya mostré algunos vídeos que hice sobre SMC en la sección de [Mis charlas](/e
 
 <h3>Vídeos de Instagram</h3>
 
-Hace trabajé en otras cuentas de redes sociales de Empathy, y por supuesto, edité algunos vídeos. [Aquí](https://www.instagram.com/motivemarket.com_/) puedes encontrar algunos. La serie de entrevistas en tiendas, el sorteo en directo de bicicletas, las entrevistas por las calles de Gijón...
+Trabajé en otras cuentas de redes sociales de Empathy, y por supuesto, edité algunos vídeos. [Aquí](https://www.instagram.com/motivemarket.com_/) puedes encontrar algunos. La serie de entrevistas en tiendas, el sorteo en directo de bicicletas, las entrevistas por las calles de Gijón...
 
 También trabajé en la edición de un vídeo de concienciación para la cuenta, diseñando las transiciones y poniendo [mi propia voz](https://www.instagram.com/reel/DCwklHIsIwm/).
