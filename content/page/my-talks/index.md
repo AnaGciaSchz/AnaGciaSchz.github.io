@@ -2,7 +2,7 @@
 title: "My talks"
 slug: "my-talks"
 description: Here you can see some of the talks I gave in the past
-lastmod: '2025-01-08'
+lastmod: '2026-09-01'
 menu:
     main:
         weight: 5
