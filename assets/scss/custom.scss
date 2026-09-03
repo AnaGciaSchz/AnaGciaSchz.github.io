@@ -104,6 +104,20 @@ body {
     }
 }
 
+.site-footer .powerby a.footer-highlight-link {
+    display: inline-block;
+    margin-bottom: 8px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+
+    &:hover {
+        color: var(--accent-color-darker);
+    }
+}
+
 .lang-tag {
     display: inline-block;
     vertical-align: middle;

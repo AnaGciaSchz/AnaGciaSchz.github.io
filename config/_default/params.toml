@@ -6,7 +6,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2023
-customText = ""
+customText = "<a class=\"footer-highlight-link\" href=\"/privacy-policy/\">Privacy Policy</a>"
 
 [dateFormat]
 published = "Jan 02, 2006"
