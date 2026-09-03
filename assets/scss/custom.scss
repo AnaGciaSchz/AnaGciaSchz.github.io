@@ -50,6 +50,36 @@ body {
     background-attachment: fixed;
 }
 
+.cursor-spotlight {
+    --cursor-x: 50vw;
+    --cursor-y: 50vh;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    margin-left: -300px;
+    margin-top: -300px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(212, 96, 63, 0.16) 0%, transparent 70%);
+    filter: blur(15px);
+    opacity: 0;
+    pointer-events: none;
+    z-index: -1;
+    transform: translate3d(var(--cursor-x), var(--cursor-y), 0);
+    transition: opacity 0.4s ease;
+    will-change: transform;
+}
+
+.cursor-spotlight.is-active {
+    opacity: 1;
+}
+
+:root[data-scheme="dark"] .cursor-spotlight {
+    background: radial-gradient(circle, rgba(240, 144, 106, 0.22) 0%, transparent 70%);
+}
+
 .article-content .video-wrapper {
     max-width: 560px;
     width: 100%;

@@ -1,0 +1,23 @@
+<div class="cursor-spotlight" aria-hidden="true"></div>
+<script>
+(function () {
+    var spotlight = document.querySelector('.cursor-spotlight');
+    if (!spotlight || window.matchMedia('(pointer: coarse)').matches) {
+        return;
+    }
+
+    var pendingFrame = null;
+
+    document.addEventListener('mousemove', function (event) {
+        if (pendingFrame) {
+            return;
+        }
+        pendingFrame = requestAnimationFrame(function () {
+            spotlight.style.setProperty('--cursor-x', event.clientX + 'px');
+            spotlight.style.setProperty('--cursor-y', event.clientY + 'px');
+            spotlight.classList.add('is-active');
+            pendingFrame = null;
+        });
+    });
+})();
+</script>
