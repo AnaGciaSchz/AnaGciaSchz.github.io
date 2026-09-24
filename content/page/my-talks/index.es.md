@@ -2,9 +2,10 @@
 title: "Mis charlas"
 slug: "my-talks"
 description: Aquí puedes ver algunas de las charlas que he dado en el pasado
-lastmod: '2026-09-01'
+lastmod: '2026-09-24'
 menu:
     main:
+        identifier: my-talks
         weight: 5
         params: 
             icon: link
@@ -31,6 +32,8 @@ Todos sabemos lo que es la privacidad hasta que nos toca definirla. Todos sabemo
 En esta charla vamos a intentar simplificar qué debería ser la privacidad para los desarrolladores y dar 10 mandamientos para que la próxima vez que te toque pelearte con ella, no te quedes en bragas.
 
 Di esta charla en la Commit Conf 2026.
+
+Puedes descargar las diapositivas en [Recursos](/es/resources/#mandamientos-privacidad).
 
 {{< youtube u-IGuYlegyI >}}
 

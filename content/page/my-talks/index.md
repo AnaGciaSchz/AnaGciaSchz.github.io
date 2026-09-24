@@ -2,9 +2,10 @@
 title: "My talks"
 slug: "my-talks"
 description: Here you can see some of the talks I gave in the past
-lastmod: '2026-09-01'
+lastmod: '2026-09-24'
 menu:
     main:
+        identifier: my-talks
         weight: 5
         params: 
             icon: link
@@ -31,6 +32,8 @@ We all know what privacy is until we have to define it. We all know what respect
 In this talk, I try to simplify what privacy should mean for developers and share 10 commandments so that the next time you have to wrestle with it, you won't get caught with your pants down.
 
 I gave this talk at Commit Conf 2026.
+
+You can download the slides in [Resources](/resources/#mandamientos-privacidad).
 
 {{< youtube u-IGuYlegyI >}}
 
