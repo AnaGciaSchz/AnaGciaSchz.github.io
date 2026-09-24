@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project on La Web de Ana García</title><link>https://anuskuskus.me/es/tags/project/</link><description>Recent content in Project on La Web de Ana García</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anuskuskus.me/es/tags/project/index.xml" rel="self" type="application/rss+xml"/><item><title>SmC, el patio de recreo de cualquier desarrollador</title><link>https://anuskuskus.me/es/p/smc-el-patio-de-recreo-de-cualquier-desarrollador/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/es/p/smc-el-patio-de-recreo-de-cualquier-desarrollador/</guid><description>&lt;img src="https://anuskuskus.me/p/smc-a-developers-playground/cover.jpg" alt="Featured image of post SmC, el patio de recreo de cualquier desarrollador" /&gt;&lt;p&gt;Imagina tener las capacidades de una plataforma de búsqueda sofisticada al alcance de la mano, lista para amoldarse a tus necesidades exactas. Eso es exactamente en lo que he estado trabajando los últimos meses. Eso es lo que ofrecen los nuevos Self-Managed Components. Eso es lo que comparto en este primer post oficial del blog.&lt;/p&gt;
+&lt;p&gt;Hoy te voy a llevar por las distintas capacidades del nuevo SmC de Empathy Platform, destacando qué lo hace especial. Además, te presentaré algunos tutoriales estupendos que hemos creado.&lt;/p&gt;
+&lt;h3&gt;¿Qué son los Self-managed Components?&lt;/h3&gt;
+&lt;p&gt;SmC es un paquete que incluye las funciones y herramientas esenciales de Empathy Platform. Está diseñado para ser:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ligero y fácil de desplegar&lt;/strong&gt;, gracias a Docker.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Respetuoso con la privacidad&lt;/strong&gt;, como el propio producto de Empathy Platform.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible y personalizable&lt;/strong&gt;, para que puedas experimentar con él.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Con SmC, ¡cualquiera puede desplegar, probar y personalizar una versión básica de las experiencias respetuosas con la privacidad de Empathy Platform en su propia infraestructura!&lt;/p&gt;
+&lt;h3&gt;Funciones clave de SmC&lt;/h3&gt;
+&lt;p&gt;El paquete SmC tiene funciones potentes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Capacidades de búsqueda esenciales como &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/related-tags-overview.html" target="_blank" rel="noopener"
+&gt;Related Tags&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/next-queries-overview.html" target="_blank" rel="noopener"
+&gt;Next Queries&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/popular-searches-overview.html" target="_blank" rel="noopener"
+&gt;Empathize&lt;/a&gt; y &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/product-recommendations/top-products-overview.html" target="_blank" rel="noopener"
+&gt;Top Clicked&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Funciones como &lt;a class="link" href="https://docs.empathy.co/develop-empathy-platform/ui-reference/components/search/x-components.spellcheck.html" target="_blank" rel="noopener"
+&gt;Spellcheck&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-basics/sorting-overview.html" target="_blank" rel="noopener"
+&gt;Sorting&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-basics/facets-and-filters-overview.html" target="_blank" rel="noopener"
+&gt;Facets y Filters&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Herramientas para resultados &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/promotions-overview.html#promoted-results" target="_blank" rel="noopener"
+&gt;Promocionados&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/promotions-overview.html#promotion-banners" target="_blank" rel="noopener"
+&gt;Banners&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/redirections-overview.html" target="_blank" rel="noopener"
+&gt;Redirecciones&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/play-with-empathy-platform/fine-tune-search-and-discovery/use-query-ranking/use-quick-boosting.html" target="_blank" rel="noopener"
+&gt;Boosting y Burying&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡En esta primera versión, el paquete ya incluye todas las funciones básicas para tener una experiencia de búsqueda relevante, sea cual sea el tipo de catálogo que tengas!&lt;/p&gt;
+&lt;h3&gt;¿Por qué usar SmC?&lt;/h3&gt;
+Los Self-managed Components ofrecen varias ventajas:
+&lt;ul&gt;
+&lt;li&gt;Control total sobre el despliegue y el funcionamiento.&lt;/li&gt;
+&lt;li&gt;Capacidad de integrar y experimentar con las funciones de Empathy Platform en tus propios sistemas.&lt;/li&gt;
+&lt;li&gt;Opción de personalizar el catálogo de productos por defecto y las configuraciones de búsqueda.&lt;/li&gt;
+&lt;li&gt;Oportunidad de contribuir al proyecto y colaborar con la comunidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¿Lo mejor de todo? SmC está disponible en un repositorio público, accesible para cualquiera que quiera explorarlo y jugar con él.&lt;/p&gt;
+&lt;h3&gt;Cómo empezar con SmC&lt;/h3&gt;
+¿Listo para lanzarte? Encontrarás toda la información que necesitas en la [documentación oficial](https://docs.empathy.co/understand-empathy-platform/about-empathy-platform/self-managed-components-overview.html).
+&lt;p&gt;Para ayudarte en el camino, he creado una serie de tutoriales en vídeo disponibles en nuestro canal de YouTube:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Quieres descargar y desplegar SmC? &lt;a class="link" href="https://www.youtube.com/watch?v=gYEC50SqI0A" target="_blank" rel="noopener"
+&gt;Este tutorial&lt;/a&gt; es tu punto de partida.&lt;/li&gt;
+&lt;li&gt;¿Buscas una guía para personalizar distintos catálogos? Sigue nuestro &lt;a class="link" href="https://www.youtube.com/watch?v=DdBJk6zXhOk" target="_blank" rel="noopener"
+&gt;tutorial paso a paso&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;¿Necesitas una explicación sobre cómo personalizar las funciones de búsqueda? &lt;a class="link" href="https://www.youtube.com/watch?v=CLeaLzolEJc" target="_blank" rel="noopener"
+&gt;Aquí la tienes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Conclusión&lt;/h3&gt;
+Los Self-managed Components de Empathy Platform abren un mundo apasionante de posibilidades para cualquiera interesado en explorar e implementar funciones avanzadas de búsqueda y descubrimiento.
+&lt;p&gt;Con su fácil despliegue, sus opciones de personalización y sus útiles tutoriales, SmC es una herramienta muy valiosa para mejorar tus experiencias de búsqueda.&lt;/p&gt;
+&lt;p&gt;Como DevRel, configurar esta herramienta y crear estos tutoriales ha sido una experiencia increíblemente gratificante. He aprendido y mejorado en cada paso, y espero que cualquier persona interesada en SmC encuentre fácilmente toda la información que necesita.&lt;/p&gt;
+&lt;p&gt;Tengo muchas ganas de ver qué creas con SmC. Recuerda, el viaje de mil búsquedas empieza con una sola consulta. ¡Feliz programación!&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Escrito originalmente para el blog de Empathy.co, pero nunca llegó a publicarse&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>

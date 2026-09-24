@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recommendation on La Web de Ana García</title><link>https://anuskuskus.me/es/tags/recommendation/</link><description>Recent content in Recommendation on La Web de Ana García</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anuskuskus.me/es/tags/recommendation/index.xml" rel="self" type="application/rss+xml"/><item><title>SmC, el patio de recreo de cualquier desarrollador</title><link>https://anuskuskus.me/es/p/smc-el-patio-de-recreo-de-cualquier-desarrollador/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/es/p/smc-el-patio-de-recreo-de-cualquier-desarrollador/</guid><description>&lt;img src="https://anuskuskus.me/p/smc-a-developers-playground/cover.jpg" alt="Featured image of post SmC, el patio de recreo de cualquier desarrollador" /&gt;&lt;p&gt;Imagina tener las capacidades de una plataforma de búsqueda sofisticada al alcance de la mano, lista para amoldarse a tus necesidades exactas. Eso es exactamente en lo que he estado trabajando los últimos meses. Eso es lo que ofrecen los nuevos Self-Managed Components. Eso es lo que comparto en este primer post oficial del blog.&lt;/p&gt;
+&lt;p&gt;Hoy te voy a llevar por las distintas capacidades del nuevo SmC de Empathy Platform, destacando qué lo hace especial. Además, te presentaré algunos tutoriales estupendos que hemos creado.&lt;/p&gt;
+&lt;h3&gt;¿Qué son los Self-managed Components?&lt;/h3&gt;
+&lt;p&gt;SmC es un paquete que incluye las funciones y herramientas esenciales de Empathy Platform. Está diseñado para ser:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ligero y fácil de desplegar&lt;/strong&gt;, gracias a Docker.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Respetuoso con la privacidad&lt;/strong&gt;, como el propio producto de Empathy Platform.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible y personalizable&lt;/strong&gt;, para que puedas experimentar con él.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Con SmC, ¡cualquiera puede desplegar, probar y personalizar una versión básica de las experiencias respetuosas con la privacidad de Empathy Platform en su propia infraestructura!&lt;/p&gt;
+&lt;h3&gt;Funciones clave de SmC&lt;/h3&gt;
+&lt;p&gt;El paquete SmC tiene funciones potentes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Capacidades de búsqueda esenciales como &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/related-tags-overview.html" target="_blank" rel="noopener"
+&gt;Related Tags&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/next-queries-overview.html" target="_blank" rel="noopener"
+&gt;Next Queries&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/popular-searches-overview.html" target="_blank" rel="noopener"
+&gt;Empathize&lt;/a&gt; y &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/product-recommendations/top-products-overview.html" target="_blank" rel="noopener"
+&gt;Top Clicked&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Funciones como &lt;a class="link" href="https://docs.empathy.co/develop-empathy-platform/ui-reference/components/search/x-components.spellcheck.html" target="_blank" rel="noopener"
+&gt;Spellcheck&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-basics/sorting-overview.html" target="_blank" rel="noopener"
+&gt;Sorting&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-basics/facets-and-filters-overview.html" target="_blank" rel="noopener"
+&gt;Facets y Filters&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Herramientas para resultados &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/promotions-overview.html#promoted-results" target="_blank" rel="noopener"
+&gt;Promocionados&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/promotions-overview.html#promotion-banners" target="_blank" rel="noopener"
+&gt;Banners&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/search-features/redirections-overview.html" target="_blank" rel="noopener"
+&gt;Redirecciones&lt;/a&gt;, &lt;a class="link" href="https://docs.empathy.co/play-with-empathy-platform/fine-tune-search-and-discovery/use-query-ranking/use-quick-boosting.html" target="_blank" rel="noopener"
+&gt;Boosting y Burying&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¡En esta primera versión, el paquete ya incluye todas las funciones básicas para tener una experiencia de búsqueda relevante, sea cual sea el tipo de catálogo que tengas!&lt;/p&gt;
+&lt;h3&gt;¿Por qué usar SmC?&lt;/h3&gt;
+Los Self-managed Components ofrecen varias ventajas:
+&lt;ul&gt;
+&lt;li&gt;Control total sobre el despliegue y el funcionamiento.&lt;/li&gt;
+&lt;li&gt;Capacidad de integrar y experimentar con las funciones de Empathy Platform en tus propios sistemas.&lt;/li&gt;
+&lt;li&gt;Opción de personalizar el catálogo de productos por defecto y las configuraciones de búsqueda.&lt;/li&gt;
+&lt;li&gt;Oportunidad de contribuir al proyecto y colaborar con la comunidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¿Lo mejor de todo? SmC está disponible en un repositorio público, accesible para cualquiera que quiera explorarlo y jugar con él.&lt;/p&gt;
+&lt;h3&gt;Cómo empezar con SmC&lt;/h3&gt;
+¿Listo para lanzarte? Encontrarás toda la información que necesitas en la [documentación oficial](https://docs.empathy.co/understand-empathy-platform/about-empathy-platform/self-managed-components-overview.html).
+&lt;p&gt;Para ayudarte en el camino, he creado una serie de tutoriales en vídeo disponibles en nuestro canal de YouTube:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Quieres descargar y desplegar SmC? &lt;a class="link" href="https://www.youtube.com/watch?v=gYEC50SqI0A" target="_blank" rel="noopener"
+&gt;Este tutorial&lt;/a&gt; es tu punto de partida.&lt;/li&gt;
+&lt;li&gt;¿Buscas una guía para personalizar distintos catálogos? Sigue nuestro &lt;a class="link" href="https://www.youtube.com/watch?v=DdBJk6zXhOk" target="_blank" rel="noopener"
+&gt;tutorial paso a paso&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;¿Necesitas una explicación sobre cómo personalizar las funciones de búsqueda? &lt;a class="link" href="https://www.youtube.com/watch?v=CLeaLzolEJc" target="_blank" rel="noopener"
+&gt;Aquí la tienes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Conclusión&lt;/h3&gt;
+Los Self-managed Components de Empathy Platform abren un mundo apasionante de posibilidades para cualquiera interesado en explorar e implementar funciones avanzadas de búsqueda y descubrimiento.
+&lt;p&gt;Con su fácil despliegue, sus opciones de personalización y sus útiles tutoriales, SmC es una herramienta muy valiosa para mejorar tus experiencias de búsqueda.&lt;/p&gt;
+&lt;p&gt;Como DevRel, configurar esta herramienta y crear estos tutoriales ha sido una experiencia increíblemente gratificante. He aprendido y mejorado en cada paso, y espero que cualquier persona interesada en SmC encuentre fácilmente toda la información que necesita.&lt;/p&gt;
+&lt;p&gt;Tengo muchas ganas de ver qué creas con SmC. Recuerda, el viaje de mil búsquedas empieza con una sola consulta. ¡Feliz programación!&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Escrito originalmente para el blog de Empathy.co, pero nunca llegó a publicarse&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Mira cómo grabo un vídeo para mi empresa</title><link>https://anuskuskus.me/es/p/mira-c%C3%B3mo-grabo-un-v%C3%ADdeo-para-mi-empresa/</link><pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/es/p/mira-c%C3%B3mo-grabo-un-v%C3%ADdeo-para-mi-empresa/</guid><description>&lt;img src="https://anuskuskus.me/p/join-me-in-creating-a-video-for-my-company/cover.jpg" alt="Featured image of post Mira cómo grabo un vídeo para mi empresa" /&gt;&lt;p&gt;¡Fake it till you make it! Quiero empezar a grabar y editar vídeos, así que este es mi primer intento 😁&lt;/p&gt;
+&lt;p&gt;Participé en un vídeo interno para mi empresa, y pensé que podía ser interesante enseñaros el proceso. Como se puede ver, grabar no siempre es glamuroso.&lt;/p&gt;
+&lt;p&gt;Hay quien piensa que se me da bien hablar en público, así que si eres una persona que quiere empezar a grabarse y a hablar, pero le da miedo dar el primer paso, espero que este vídeo te muestre que a veces solo hace falta tener la iniciativa&amp;hellip; y una botella de sidra 😬&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/xojVpRD-G90"
+allowfullscreen
+title="YouTube Video"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Publicación original en LinkedIn (en Inglés) &lt;a class="link" href="https://www.linkedin.com/posts/anagciaschz_publicspeaking-tutorial-tips-activity-7188137051672690688-QJCX?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+&gt;aquí&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Cusdis, el sistema de comentarios que prioriza la privacidad</title><link>https://anuskuskus.me/es/p/cusdis-el-sistema-de-comentarios-que-prioriza-la-privacidad/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/es/p/cusdis-el-sistema-de-comentarios-que-prioriza-la-privacidad/</guid><description>&lt;img src="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/cover.jpg" alt="Featured image of post Cusdis, el sistema de comentarios que prioriza la privacidad" /&gt;&lt;h3&gt;¿Qué es Cusdis?&lt;/h3&gt;
+&lt;p&gt;Esa fue mi primera pregunta a la hora de decidir qué tecnología usar para la sección de comentarios de mis posts.&lt;/p&gt;
+&lt;p&gt;Como dicen en su web, &lt;a class="link" href="https://cusdis.com/" target="_blank" rel="noopener"
+&gt;cusdis.com&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Cusdis&lt;/strong&gt; es una &lt;strong&gt;alternativa a Disqus&lt;/strong&gt; de código abierto, ligera y centrada en la privacidad. Es muy fácil de usar e integrar con tu web actual. No te rastreamos ni a ti ni a tus usuarios.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;¿Y qué es &lt;a class="link" href="https://disqus.com/about-us/" target="_blank" rel="noopener"
+&gt;Disqus&lt;/a&gt;? Es un sistema de comentarios muy usado en distintas webs y comunidades online, que permite a los usuarios comentar sobre cualquier cosa y participar en discusiones de blogs.&lt;/p&gt;
+&lt;p&gt;Por supuesto, como orgullosa desarrolladora en &lt;a class="link" href="https://oi.empathy.co/#open-privacy" target="_blank" rel="noopener"
+&gt;Open Innovation in Privacy&lt;/a&gt;, cuando descubrí que existía una tecnología de comentarios similar a una de las más populares, pero con un compromiso real con la privacidad de los usuarios, tuve que elegirla.&lt;/p&gt;
+&lt;h3&gt;¿Cómo se hostea?&lt;/h3&gt;
+&lt;p&gt;Al principio, di por hecho que tendría que hostear la tecnología yo misma, pero no fue el caso.&lt;/p&gt;
+&lt;p&gt;Cusdis ofrece un plan gratuito para hostear un sitio y moderar manualmente hasta cien comentarios al mes, con diez comentarios adicionales que se pueden moderar automáticamente. También puedes pagar 5$/mes para tener sitios y funciones de moderación ilimitados.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/1.jpg"
+width="700"
+height="275"
+srcset="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/1_hu_4d51162130c59bd6.jpg 480w, https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/1_hu_559cb7284ab7c01a.jpg 1024w"
+loading="lazy"
+alt="Imagen con los dos planes que ofrece Cusdis actualmente"
+class="gallery-image"
+data-flex-grow="254"
+data-flex-basis="610px"
+&gt;&lt;/p&gt;
+&lt;h3&gt;¿Cómo se configura?&lt;/h3&gt;
+&lt;p&gt;Al registrarte en Cusdis, puedes generar un board para tu sitio y obtener toda la información necesaria.&lt;/p&gt;
+&lt;p&gt;La plataforma te da el código embebido que necesitas para configurarlo:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/2.jpg"
+width="700"
+height="288"
+srcset="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/2_hu_a02f378b25ce973f.jpg 480w, https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/2_hu_36a2ad419fa98355.jpg 1024w"
+loading="lazy"
+alt="Ejemplo del código embebido y el botón en el Dashboard para conseguirlo"
+class="gallery-image"
+data-flex-grow="243"
+data-flex-basis="583px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Si usas la &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+&gt;misma plantilla que yo&lt;/a&gt; en tu web, puedes coger el id de ese código embebido (el valor &lt;code&gt;data-app-id&lt;/code&gt;) y ponerlo en la configuración (en &lt;code&gt;config/_default(params.toml&lt;/code&gt;):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-toml" data-lang="toml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c"&gt;## Comments&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nx"&gt;comments&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nx"&gt;enabled&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nx"&gt;provider&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;cusdis&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nx"&gt;comments&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;cusdis&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nx"&gt;host&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;https://cusdis.com&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nx"&gt;id&lt;/span&gt; &lt;span class="p"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;pasteTheIdHere&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3&gt;¿Cómo funciona?&lt;/h3&gt;
+&lt;p&gt;Los comentarios pueden ser anónimos, ya que los usuarios pueden optar por un nombre de usuario aleatorio cada vez que participan. Para mantener un ambiente positivo y seguro, los comentarios no se publican de inmediato.&lt;/p&gt;
+&lt;p&gt;Como dueña de la página, puedes moderarlos desde el dashboard:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/3.jpg"
+width="699"
+height="167"
+srcset="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/3_hu_ebc27d530c178c4c.jpg 480w, https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/3_hu_6e6974c201367cd9.jpg 1024w"
+loading="lazy"
+alt="Vista del Dashboard con un comentario por moderar"
+class="gallery-image"
+data-flex-grow="418"
+data-flex-basis="1004px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Y no te preocupes por enterarte de cuándo alguien comenta en tu página. Cusdis te avisará por correo electrónico ;)&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/4.jpg"
+width="721"
+height="32"
+srcset="https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/4_hu_9e6b098a1e343791.jpg 480w, https://anuskuskus.me/p/cusdis-the-privacy-first-commenting-system/4_hu_67f6ade2ed21ca1f.jpg 1024w"
+loading="lazy"
+alt="Ejemplo de correo notificando un nuevo comentario"
+class="gallery-image"
+data-flex-grow="2253"
+data-flex-basis="5407px"
+&gt;&lt;/p&gt;
+&lt;h3&gt;Conclusión&lt;/h3&gt;
+&lt;p&gt;Si estás buscando un sistema de comentarios, dale una oportunidad a esta alternativa centrada en la privacidad. No solo es fácil de usar: ¡es una opción fiable y respetuosa!&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Imagen obtenida de &lt;a class="link" href="https://cusdis.com/" target="_blank" rel="noopener"
+&gt;cusdis.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Flippity como herramienta de gamificación</title><link>https://anuskuskus.me/es/p/flippity-como-herramienta-de-gamificaci%C3%B3n/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/es/p/flippity-como-herramienta-de-gamificaci%C3%B3n/</guid><description>&lt;img src="https://anuskuskus.me/p/flippity-as-gamification-tool/cover.jpg" alt="Featured image of post Flippity como herramienta de gamificación" /&gt;&lt;p&gt;No disfruto estando una hora sentada prestando toda mi atención a una persona que simplemente está hablando. Esa persona tiene que estar explicando las cosas de forma muy clara y dinámica para evitar que me distraiga, y eso no es tan común.&lt;/p&gt;
+&lt;p&gt;Sé que esto no sólo me pasa a mí. Hay estudios que indican que la atención no puede mantenerse durante una hora, lo óptimo son 15 minutos. Por lo tanto, he llegado a la conclusión de que no todo sirve a la hora de dar una charla.&lt;/p&gt;
+&lt;p&gt;Soy muy crítica con mi trabajo, y si a mí me ocurre esto con otros ponentes, doy por hecho que a otras personas les puede ocurrir lo mismo conmigo. No me interesa impartir charlas o formaciones que sean tan densas y completas que sólo alguien que ya sabía del tema del que estoy hablando sea capaz de entender. Para eso existen otros formatos, como publicar en un blog o grabar un vídeo. Considero que una charla es algo más interactivo, ya que el ponente está en la misma sala que tú.&lt;/p&gt;
+&lt;p&gt;Por eso, siempre intento adaptar el contenido. Pero adaptarse no significa limitarse a dar charlas de 15 minutos. Hay otra alternativa: la gamificación. Kahoot, Mentimeter, un board de Miro, encuestas en tiempo real… cualquier cosa que sea interactiva y ayude a mantener el interés sirve.&lt;/p&gt;
+&lt;p&gt;Como me gusta experimentar, de vez en cuando invierto tiempo en buscar o pensar de cero algunas de estas actividades. Y la semana pasada encontré una página llena de ellas.&lt;/p&gt;
+&lt;p&gt;Flippity es un sitio web lleno de recursos gratuitos para generar páginas de actividades. Puedes crear una tabla con un ranking de puntuaciones, un trivial, un concurso de escribir rápido con textos personalizados, tu propio wordle… y te permite configurarlo todo desde una hoja de cálculo de Google: &lt;a class="link" href="https://www.youtube.com/watch?v=PAAkCSZUG1c" target="_blank" rel="noopener"
+&gt;flippity.net&lt;/a&gt;&lt;a class="link" href="https://flippity.net/" target="_blank" rel="noopener"
+&gt;https://flippity.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cada recurso viene con una demo para ver el resultado final antes de implementarlo, y las instrucciones para descargarte la plantilla y generar tu página. Además, Flippity no requiere que introduzcas ningún dato personal.&lt;/p&gt;
+&lt;p&gt;Así que si a tí también te interesa adaptar tus charlas y actividades a un formato más interactivo, te recomiendo que guardes esta página en favoritos ;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Publicación original en LinkedIn &lt;a class="link" href="https://www.linkedin.com/posts/anagciaschz_no-disfruto-estando-una-hora-sentada-prestando-activity-7127276310057340928-7A_u?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+&gt;aquí&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>
