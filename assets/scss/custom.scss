@@ -160,3 +160,47 @@ body {
     background-color: var(--accent-color);
     border-radius: var(--tag-border-radius);
 }
+.download-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 22px;
+    font-weight: 700;
+    color: var(--accent-color-text) !important;
+    background-color: var(--accent-color);
+    border-radius: var(--tag-border-radius);
+    text-decoration: none !important;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: var(--accent-color-darker);
+    }
+}
+
+#main-menu li.menu-parent > a {
+    height: auto;
+}
+
+#main-menu .menu-children a {
+    height: auto;
+    gap: 12px;
+}
+
+#main-menu .menu-children {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    list-style: none;
+    margin: 18px 0 0;
+    padding-left: calc(20px + var(--menu-icon-separation));
+    font-size: 1.3rem;
+
+    li a {
+        color: var(--body-text-color);
+        font-weight: normal;
+    }
+
+    li.current a {
+        color: var(--accent-color);
+        font-weight: bold;
+    }
+}
